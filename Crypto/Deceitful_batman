@@ -1,0 +1,21 @@
+Cipher:
+NAANAAANNNAANAAAANANANANAAAAAAAANNAANAAANAAANANNAAAAAAAANNNAANAAAAANAANAAAA
+
+Hint:
+This text appeared on a Batman show but we suspect that it is actually code.
+It's your job to find out what it says! (The flag is in uppercase)
+
+2 characters: Might indicate baconian cipher.
+SHEFKAGIRMAOIEQ
+NYVZXOTRXP
+OXZPUSZQ
+
+
+http://rumkin.com/tools/cipher/baconian.php
+Decrypt
+I=J and U=V
+BAABAAABBBAABAAAABABABABAAAAAAAABBAABAAABAAABABBAAAAAAAABBBAABAAAAABAABAAAA
+
+THEFLAGISNAPIER
+
+HTB{NAPIER}
